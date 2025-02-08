@@ -35,5 +35,7 @@ Implementación de una calculadora RPN (Notación Polaca Inversa) en C. La calcu
 - **t**: Calcula la tangente del último número ingresado en la pila (en grados).
 - **p**: Eleva el penúltimo número ingresado en la pila a la potencia del último número ingresado en la pila.
 
+---
+
 ### Daniel Ortiz Aristizábal
 ### Sistemas Operativos - Universidad Pontificia Bolivariana
